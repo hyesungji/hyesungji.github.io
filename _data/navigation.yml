@@ -1,7 +1,13 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Blog"
+    url: /blog
+  - title: "Publication"
+    url: "https://donghoon.io/publication"
+  - title: "Project"
+    url: "https://donghoon.io/project"
+  - title: "Curriculum Vitae"
+    url: "https://donghoon.io/pdf/cv.pdf"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
